@@ -1202,5 +1202,9 @@ window.RULES_INTERMEDIATE = {
     "/wldink": {
         "url": "http://wld.ink/",
         "expired_at": "2026-01-15T22:22:00.000Z"
+    },
+    "/1354646757": {
+        "url": "https://iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.in/iIIIIiIIiiIiiiIiiIIIiIiIiIIIiiIiiIIiIIiiiiIiiiIiiiIIIiIiiiIiiiIiiIIiIiiiiIIIiIiiiIIIiIiiiIIIiiiiiIIIiiIIiiIIIiIiiiIiIIIIiiIiIIIIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIi",
+        "expired_at": "2026-01-15T11:26:00.000Z"
     }
 };
