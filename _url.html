@@ -150,7 +150,15 @@
                     })
                 });
 
-                const result = await response.json();
+                const text = await response.text();
+                let result;
+                try {
+                    result = JSON.parse(text);
+                } catch (e) {
+                    // 如果不是 JSON，可能是服务器报错页面
+                    console.error("Non-JSON response:", text);
+                    throw new Error("服务器返回了非预期的数据: " + (text.substring(0, 100) || "空响应"));
+                }
 
                 if (response.ok) {
                     // 优先使用后端返回的 URL，否则使用当前域名拼接
@@ -164,7 +172,7 @@
                 }
             } catch (err) {
                 console.error(err);
-                showError('网络错误或请求失败');
+                showError(err.message || '网络错误或请求失败');
             } finally {
                 submitBtn.disabled = false;
             }
