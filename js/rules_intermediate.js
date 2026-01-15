@@ -1234,5 +1234,9 @@ window.RULES_INTERMEDIATE = {
     "/yzchili": {
         "url": "https://www.yzchili.dpdns.org/",
         "expired_at": "2026-01-22T14:06:00.000Z"
+    },
+    "/jkxnea": {
+        "url": "http://jkx.dotcog.nhely.hu/",
+        "expired_at": "2026-01-21T14:54:00.000Z"
     }
 };
