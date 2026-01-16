@@ -2166,5 +2166,9 @@ window.RULES_INTERMEDIATE = {
     "/dddddddddd": {
         "url": "https://www.bilibili.com/video/BV1d9rxBiEzi/?vd_source=81293bbd8750a0b122f396c2fe4525bd",
         "expired_at": "2026-01-17T12:04:00.000Z"
+    },
+    "/abfffa": {
+        "url": "http://example.com",
+        "expired_at": "2026-01-22T12:27:00.000Z"
     }
 };
