@@ -2766,5 +2766,9 @@ window.RULES_INTERMEDIATE = {
     "/rrsite": {
         "url": "https://reducedradius.netlify.app",
         "expired_at": "2026-01-18T11:27:00.000Z"
+    },
+    "/testtq": {
+        "url": "https://www.baidu.com/s?wd=50%E4%B8%87%E4%BA%BF%E5%A4%A9%E9%87%8F%E5%AD%98%E6%AC%BE%E5%B0%86%E5%88%B0%E6%9C%9F+%E6%B5%81%E5%90%91%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1",
+        "expired_at": "2026-01-20T12:36:00.000Z"
     }
 };
