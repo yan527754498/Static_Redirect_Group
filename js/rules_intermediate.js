@@ -2150,5 +2150,9 @@ window.RULES_INTERMEDIATE = {
     "/hello": {
         "url": "https://qinglanm.pages.dev/",
         "expired_at": "2026-01-24T04:50:00.000Z"
+    },
+    "/shortt": {
+        "url": "https://www.travellings.cn/typewriter.html",
+        "expired_at": "2026-01-21T04:57:00.000Z"
     }
 };
