@@ -2182,5 +2182,9 @@ window.RULES_INTERMEDIATE = {
     "/New123": {
         "url": "https://reurl.cc/vKjgQN",
         "expired_at": "2026-01-18T10:14:00.000Z"
+    },
+    "/test213": {
+        "url": "https://h7.cl/1h-he",
+        "expired_at": "2026-01-18T10:29:00.000Z"
     }
 };
