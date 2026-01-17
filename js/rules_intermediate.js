@@ -2778,5 +2778,9 @@ window.RULES_INTERMEDIATE = {
     "/etsanswer": {
         "url": "https://ets-answer.netlify.app/",
         "expired_at": "2026-01-20T13:18:00.000Z"
+    },
+    "/FuckIFLYT": {
+        "url": "http://pet-gratefully-terrier.ngrok-free.app/",
+        "expired_at": "2026-01-23T14:46:00.000Z"
     }
 };
