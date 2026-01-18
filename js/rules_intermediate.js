@@ -2754,5 +2754,9 @@ window.RULES_INTERMEDIATE = {
     "/noiwc": {
         "url": "https://noiwcdoge.github.io",
         "expired_at": "2026-01-25T04:43:00.000Z"
+    },
+    "/gongce": {
+        "url": "https://noiwcdoge.github.io",
+        "expired_at": "2026-01-19T16:00:00.000Z"
     }
 };
