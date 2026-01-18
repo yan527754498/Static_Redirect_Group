@@ -1195,10 +1195,6 @@ window.RULES_INTERMEDIATE = {
         "url": "http://jkx.dotcog.nhely.hu/",
         "expired_at": "2026-01-21T14:54:00.000Z"
     },
-    "/myssl": {
-        "url": "http://[::1]",
-        "expired_at": "2026-01-17T16:18:00.000Z"
-    },
     "/56205ea5": {
         "url": "https://grok.com/project/56205ea5-1098-4fe9-82b4-51226bfb8894?tab=conversations&chat=e2244a5f-238c-45cb-853d-4286e82b0a4d&rid=21033f82-fd14-406e-b562-980dc5d1ed23",
         "expired_at": "2026-01-22T00:25:00.000Z"
@@ -2103,25 +2099,9 @@ window.RULES_INTERMEDIATE = {
         "url": "https://edu.360buyimg.men/auth/register?code=pACFdvdQ",
         "expired_at": "2026-01-21T10:41:00.000Z"
     },
-    "/test3": {
-        "url": "https://2x.nx/test3",
-        "expired_at": "2026-01-17T02:10:00.000Z"
-    },
-    "/jiangjun": {
-        "url": "https://www.bilibili.com/",
-        "expired_at": "2026-01-17T11:08:00.000Z"
-    },
-    "/li2313": {
-        "url": "https://www.bilibili.com/",
-        "expired_at": "2026-01-17T11:30:00.000Z"
-    },
     "/xixix": {
         "url": "https://www.bilibili.com/video/BV1q2i1BLEJT/?spm_id_from=333.1007.tianma.2-1-4.click&vd_source=7d54efc3a3465aeb045bc6d80ad12355",
         "expired_at": "2026-01-20T11:31:00.000Z"
-    },
-    "/dddddddddd": {
-        "url": "https://www.bilibili.com/video/BV1d9rxBiEzi/?vd_source=81293bbd8750a0b122f396c2fe4525bd",
-        "expired_at": "2026-01-17T12:04:00.000Z"
     },
     "/abfffa": {
         "url": "http://example.com",
@@ -2139,14 +2119,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://baidu.com",
         "expired_at": "2026-01-23T15:59:00.000Z"
     },
-    "/lzq111": {
-        "url": "https://lzq.rdzhvip.com/",
-        "expired_at": "2026-01-17T04:00:00.000Z"
-    },
-    "/1939u8": {
-        "url": "https://blowfish.page/zh-cn/",
-        "expired_at": "2026-01-17T05:34:00.000Z"
-    },
     "/hello": {
         "url": "https://qinglanm.pages.dev/",
         "expired_at": "2026-01-24T04:50:00.000Z"
@@ -2154,10 +2126,6 @@ window.RULES_INTERMEDIATE = {
     "/shortt": {
         "url": "https://www.travellings.cn/typewriter.html",
         "expired_at": "2026-01-21T04:57:00.000Z"
-    },
-    "/sb9178": {
-        "url": "https://www.bilibili.com",
-        "expired_at": "2026-01-17T05:38:00.000Z"
     },
     "/YouTube": {
         "url": "https://www.youtube.com",
@@ -2174,10 +2142,6 @@ window.RULES_INTERMEDIATE = {
     "/alphabet": {
         "url": "https://abc.xyz",
         "expired_at": "2026-01-23T09:45:00.000Z"
-    },
-    "/qazxsw": {
-        "url": "https://www.baidu.com",
-        "expired_at": "2026-01-17T10:10:00.000Z"
     },
     "/New123": {
         "url": "https://reurl.cc/vKjgQN",
@@ -2770,10 +2734,6 @@ window.RULES_INTERMEDIATE = {
     "/testtq": {
         "url": "https://www.baidu.com/s?wd=50%E4%B8%87%E4%BA%BF%E5%A4%A9%E9%87%8F%E5%AD%98%E6%AC%BE%E5%B0%86%E5%88%B0%E6%9C%9F+%E6%B5%81%E5%90%91%E5%8F%97%E5%85%B3%E6%B3%A8&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1",
         "expired_at": "2026-01-20T12:36:00.000Z"
-    },
-    "/verber": {
-        "url": "https://verber.eu.org",
-        "expired_at": "2026-01-17T13:00:00.000Z"
     },
     "/etsanswer": {
         "url": "https://ets-answer.netlify.app/",
