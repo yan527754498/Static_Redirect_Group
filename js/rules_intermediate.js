@@ -1870,5 +1870,9 @@ window.RULES_INTERMEDIATE = {
     "/testing": {
         "url": "https://null.red",
         "expired_at": "2026-01-20T05:15:00.000Z"
+    },
+    "/llink": {
+        "url": "https://www.bilibili.com/",
+        "expired_at": "2026-01-21T08:52:00.000Z"
     }
 };
