@@ -5590,5 +5590,9 @@ window.RULES_INTERMEDIATE = {
     "/lb163sid": {
         "url": "https://cv.notaone.cn/",
         "expired_at": "2026-01-27T11:56:29.000Z"
+    },
+    "/wkxmk": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-27T11:56:31.000Z"
     }
 };
