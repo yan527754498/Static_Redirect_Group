@@ -3546,5 +3546,9 @@ window.RULES_INTERMEDIATE = {
     "/belwaid4qb": {
         "url": "https://cv.notaone.cn/",
         "expired_at": "2026-01-27T11:23:55.000Z"
+    },
+    "/4bru8": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-27T11:24:00.000Z"
     }
 };
