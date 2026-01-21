@@ -4178,5 +4178,9 @@ window.RULES_INTERMEDIATE = {
     "/sujg1": {
         "url": "https://auth.notaone.cn/?url=https://auth.notaone.cn/?url=https://auth.notaone.cn/?url=https://auth.notaone.cn/?url=https://auth.notaone.cn/",
         "expired_at": "2026-01-28T11:30:00.000Z"
+    },
+    "/kjnbv1": {
+        "url": "https://auth.notaone.cn/?url=https://auth.notaone.cn/?url=https://auth.notaone.cn/?url=https://auth.notaone.cn/?url=https://auth.notaone.cn/",
+        "expired_at": "2026-01-27T11:35:00.000Z"
     }
 };
