@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const config = window.REDIRECT_CONFIG || {};
     const rulesIntermediate = window.RULES_INTERMEDIATE || {};
     const rulesDirect = window.RULES_DIRECT || {};
-    const fallbackBase = config.fallback || "https://blog.acofork.com";
+    const fallbackBase = config.fallback || "https://blog.088086.xyz";
 
     // 获取当前路径
     const path = window.location.pathname;
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (checkUrl.protocol !== 'http:' && checkUrl.protocol !== 'https:') {
             console.error("Blocked potentially unsafe redirect:", finalUrl);
             // 降级到安全页面或显示错误
-            finalUrl = "https://blog.acofork.com/404"; 
+            finalUrl = "https://blog.088086.xyz/404"; 
             if (document.getElementById('url-display')) {
                 document.getElementById('url-display').textContent = "Blocked unsafe URL";
             }
