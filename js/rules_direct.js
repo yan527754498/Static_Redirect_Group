@@ -8,7 +8,7 @@ window.RULES_DIRECT = {
         "expired_at": ""
     },
     "/": {
-        "url": "https://blog.acofork.com/",
+        "url": "https://blog.088086.xyz/",
         "expired_at": ""
     },
     "/long": {
@@ -16,7 +16,7 @@ window.RULES_DIRECT = {
         "expired_at": ""
     },
     "/tit": {
-        "url": "https://blog.acofork.com/posts/pin/",
+        "url": "https://blog.088086.xyz/posts/pin/",
         "expired_at": ""
     },
     "/ak": {
@@ -52,7 +52,7 @@ window.RULES_DIRECT = {
         "expired_at": ""
     },
     "/donate": {
-        "url": "https://blog.acofork.com/sponsors",
+        "url": "https://blog.088086.xyz/sponsors",
         "expired_at": ""
     },
     "/tg": {
